@@ -1,0 +1,34 @@
+1~What is java persistence API ?
+2~Name some important interfaces of hibernate framework ?
+3~What is hibernate configuration file ?
+4~What is hibernate mapping file ?
+5~Name some important annotations used for hibernate mappling ?
+6~What is hibernate session factory and how to configure ?
+7~Hibernate session factory is thread safe ?
+8~Difference between open session and get current session ?
+9~Difference between get and load method ?
+10~What is caching in Hibernate and explain 1st level cache ?
+11~How to configure 2nd level cache using EHCache ?
+12~What are different state of entity bean ?
+13~What is use of hibernate session merge method ?
+14~What is different between save, save or update and persist method ?
+15~What will happen if we don't have no argument constructor in entity bean ?
+16~Difference between sorted collection and ordered collection which one is better ?
+17~What are the collection types in hibernate ?
+18~How to implement joins in hibernate ?
+19~Why we should not make entity call final ?
+20~What is HQL and what are benefits ?
+21~What is query cache in hibernate ?
+22~Can we execute native SQL query in Hibernate ?
+23~What is named SQL query ?
+24~Benefit of criteria API ?
+25~How to log hibernate generated SQL query in log files ?
+26~What in hibernate proxy and how it helps in lazy loading ?
+27~How to implement relationship in hibernate ?
+28~What is cascading and what are different type of cadcading ?
+29~How to integrate hibernate and spring framework ?
+30~What is hibernate template class ?
+31~How to integrate hibernate with servlet or web application ?
+32~Which design patterns used in hibernate framework ?
+33~What are best practice to follow with hibenate ?
+34~What is hibernate validator framework ?

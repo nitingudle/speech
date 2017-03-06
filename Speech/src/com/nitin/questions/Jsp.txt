@@ -1,0 +1,6 @@
+1~Explain the difference between include directive and include action of JSP ?
+2~Is it possible for one JSP to extend another java class, if yes how ?
+3~What is <JSP:Webbean> tag, why it is used ?
+4~How can one jsp communication with java file ?
+5~What are implicit objects in JSP ?
+6~In JSP page how can we handle runtime exception ?

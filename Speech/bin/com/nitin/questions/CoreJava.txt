@@ -1,0 +1,21 @@
+1~What is immutable object, can we write immutable object ?
+2~Which two method you need to implement for key object in hashmap ?
+3~What is difference between creating String using new operator and literal ?
+4~What is difference between StringBuffer and StringBulder ?
+5~Difference between array list and vector ?
+6~Difference between executor submit and executor execute method ?
+7~Difference between factory pattern and abstract factory pattern ?
+8~What is singleton ? is it better to make whole method synchronized or only critical section synchronized ?
+9~Can you write critical section of code for singleton ?
+10~Can you write code for iterating over hashmap in java 4 and java 8.
+11~What will be the problem if you don't override hashcode method ?
+12~What's wrong using hashmap in multi threaded environment ?
+13~When hashmap get method goes in infinite loop ?
+14~What do you understand by thread safety ? What it is required ? How to achieve thread safety in java application ?
+15~Can you override private or static method in java ?
+16~What will happen if we put a key object in a hashmap which is already there ?
+17~If a method throws null pointer exception in super class can we override it with a method which throws runtime exception ?
+18~How do you ensure that N thread can access N resources without deadlock ?
+18~Difference between cyclic barrier and count down latch in JAVA ?
+20~Can you access non static variable in static context ?
+
